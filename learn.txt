@@ -1,3 +1,7 @@
 This is the genesis of git learning.
 
+<<<<<<< HEAD
 this line for master
+=======
+This is commit - 65
+>>>>>>> feature
