@@ -1,4 +1,2 @@
 This is the genesis of git learning.
-
-this line for master
-This is commit - 65
+this line is expected to be used in feature branch hence it is being used here
