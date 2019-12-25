@@ -1,1 +1,3 @@
 This is the genesis of git learning.
+
+This is commit - 1 
