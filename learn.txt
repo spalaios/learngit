@@ -1,2 +1,2 @@
-This is the genesis of git learning. Also testing the commit feature in webstorm
-this line is expected to be used in feature branch hence it is being used here
+removing both the lines here to see the commit diff issues
+adding the second line for the sake of it
