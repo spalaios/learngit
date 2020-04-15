@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="025b0c53-dca7-4e10-b620-4ebc649b4b14" name="Default Changelist" comment="&#10;feature3 first commit" />
+    <list default="true" id="025b0c53-dca7-4e10-b620-4ebc649b4b14" name="Default Changelist" comment="&#10;feature3 first commit">
+      <change beforePath="$PROJECT_DIR$/learn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586971441212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="line added for feature6">
+      <created>1586973094874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586973094874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +95,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&#10;testing webstorm commit feature" />
     <MESSAGE value="&#10;feature3 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;feature3 first commit" />
+    <MESSAGE value="line added for feature6" />
+    <option name="LAST_COMMIT_MESSAGE" value="line added for feature6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="98" width="1720" height="882" key="DiffContextDialog" timestamp="1586971836626">
