@@ -2,4 +2,4 @@ removing both the lines here to see the c|ommit diff issues
 this is the third line
 this is the fourth line for test
 adding the second line for the sake of it
-line added from feature 5
+line from feature 6
