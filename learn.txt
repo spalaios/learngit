@@ -1,6 +1,2 @@
-This is the genesis of git learning.
-this line is expected to be used in feature branch hence it is being used here. THIS LINE SHOULD BE EXPECTED
-
-
-
-THIS LINE IS AGAIN NEEDED
+This is the genesis of git learning. Also testing the commit feature in webstorm
+this line is expected to be used in feature branch hence it is being used here
