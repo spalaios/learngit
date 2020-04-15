@@ -1,4 +1,4 @@
-removing both the lines here to see the c|ommit diff issues
+removing both the lines here to see the c|ommit testing diff again diff issues
 this is the third line
 this is the fourth line for test
 adding the second line for the sake of it
