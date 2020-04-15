@@ -1,2 +1,3 @@
-removing both the lines here to see the commit diff issues
+removing both the lines here to see the c|ommit diff issues
+this is the third line
 adding the second line for the sake of it
